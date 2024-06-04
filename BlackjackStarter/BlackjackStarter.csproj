@@ -1,0 +1,150 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="JPEG\10C.jpg" />
+    <None Remove="JPEG\10D.jpg" />
+    <None Remove="JPEG\10H.jpg" />
+    <None Remove="JPEG\10S.jpg" />
+    <None Remove="JPEG\2C.jpg" />
+    <None Remove="JPEG\2D.jpg" />
+    <None Remove="JPEG\2H.jpg" />
+    <None Remove="JPEG\2S.jpg" />
+    <None Remove="JPEG\3C.jpg" />
+    <None Remove="JPEG\3D.jpg" />
+    <None Remove="JPEG\3H.jpg" />
+    <None Remove="JPEG\3S.jpg" />
+    <None Remove="JPEG\4C.jpg" />
+    <None Remove="JPEG\4D.jpg" />
+    <None Remove="JPEG\4H.jpg" />
+    <None Remove="JPEG\4S.jpg" />
+    <None Remove="JPEG\5C.jpg" />
+    <None Remove="JPEG\5D.jpg" />
+    <None Remove="JPEG\5H.jpg" />
+    <None Remove="JPEG\5S.jpg" />
+    <None Remove="JPEG\6C.jpg" />
+    <None Remove="JPEG\6D.jpg" />
+    <None Remove="JPEG\6H.jpg" />
+    <None Remove="JPEG\6S.jpg" />
+    <None Remove="JPEG\7C.jpg" />
+    <None Remove="JPEG\7D.jpg" />
+    <None Remove="JPEG\7H.jpg" />
+    <None Remove="JPEG\7S.jpg" />
+    <None Remove="JPEG\8C.jpg" />
+    <None Remove="JPEG\8D.jpg" />
+    <None Remove="JPEG\8H.jpg" />
+    <None Remove="JPEG\8S.jpg" />
+    <None Remove="JPEG\9C.jpg" />
+    <None Remove="JPEG\9D.jpg" />
+    <None Remove="JPEG\9H.jpg" />
+    <None Remove="JPEG\9S.jpg" />
+    <None Remove="JPEG\AC.jpg" />
+    <None Remove="JPEG\aces.jpg" />
+    <None Remove="JPEG\AD.jpg" />
+    <None Remove="JPEG\AH.jpg" />
+    <None Remove="JPEG\AS.jpg" />
+    <None Remove="JPEG\back_cards-07.jpg" />
+    <None Remove="JPEG\blue_back.jpg" />
+    <None Remove="JPEG\Gray_back.jpg" />
+    <None Remove="JPEG\Green_back.jpg" />
+    <None Remove="JPEG\honor_clubs.jpg" />
+    <None Remove="JPEG\honor_diamond.jpg" />
+    <None Remove="JPEG\honor_heart-14.jpg" />
+    <None Remove="JPEG\honor_spade.jpg" />
+    <None Remove="JPEG\JC.jpg" />
+    <None Remove="JPEG\JD.jpg" />
+    <None Remove="JPEG\JH.jpg" />
+    <None Remove="JPEG\JS.jpg" />
+    <None Remove="JPEG\KC.jpg" />
+    <None Remove="JPEG\KD.jpg" />
+    <None Remove="JPEG\KH.jpg" />
+    <None Remove="JPEG\KS.jpg" />
+    <None Remove="JPEG\purple_back.jpg" />
+    <None Remove="JPEG\QC.jpg" />
+    <None Remove="JPEG\QD.jpg" />
+    <None Remove="JPEG\QH.jpg" />
+    <None Remove="JPEG\QS.jpg" />
+    <None Remove="JPEG\Red_back.jpg" />
+    <None Remove="JPEG\table.jpg" />
+    <None Remove="JPEG\Yellow_back.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="JPEG\10C.jpg" />
+    <Resource Include="JPEG\10D.jpg" />
+    <Resource Include="JPEG\10H.jpg" />
+    <Resource Include="JPEG\10S.jpg" />
+    <Resource Include="JPEG\2C.jpg" />
+    <Resource Include="JPEG\2D.jpg" />
+    <Resource Include="JPEG\2H.jpg" />
+    <Resource Include="JPEG\2S.jpg" />
+    <Resource Include="JPEG\3C.jpg" />
+    <Resource Include="JPEG\3D.jpg" />
+    <Resource Include="JPEG\3H.jpg" />
+    <Resource Include="JPEG\3S.jpg" />
+    <Resource Include="JPEG\4C.jpg" />
+    <Resource Include="JPEG\4D.jpg" />
+    <Resource Include="JPEG\4H.jpg" />
+    <Resource Include="JPEG\4S.jpg" />
+    <Resource Include="JPEG\5C.jpg" />
+    <Resource Include="JPEG\5D.jpg" />
+    <Resource Include="JPEG\5H.jpg" />
+    <Resource Include="JPEG\5S.jpg" />
+    <Resource Include="JPEG\6C.jpg" />
+    <Resource Include="JPEG\6D.jpg" />
+    <Resource Include="JPEG\6H.jpg" />
+    <Resource Include="JPEG\6S.jpg" />
+    <Resource Include="JPEG\7C.jpg" />
+    <Resource Include="JPEG\7D.jpg" />
+    <Resource Include="JPEG\7H.jpg" />
+    <Resource Include="JPEG\7S.jpg" />
+    <Resource Include="JPEG\8C.jpg" />
+    <Resource Include="JPEG\8D.jpg" />
+    <Resource Include="JPEG\8H.jpg" />
+    <Resource Include="JPEG\8S.jpg" />
+    <Resource Include="JPEG\9C.jpg" />
+    <Resource Include="JPEG\9D.jpg" />
+    <Resource Include="JPEG\9H.jpg" />
+    <Resource Include="JPEG\9S.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="JPEG\AC.jpg" />
+    <Resource Include="JPEG\aces.jpg" />
+    <Resource Include="JPEG\AD.jpg" />
+    <Resource Include="JPEG\AH.jpg" />
+    <Resource Include="JPEG\AS.jpg" />
+    <Resource Include="JPEG\back_cards-07.jpg" />
+    <Resource Include="JPEG\blue_back.jpg" />
+    <Resource Include="JPEG\Gray_back.jpg" />
+    <Resource Include="JPEG\Green_back.jpg" />
+    <Resource Include="JPEG\honor_clubs.jpg" />
+    <Resource Include="JPEG\honor_diamond.jpg" />
+    <Resource Include="JPEG\honor_heart-14.jpg" />
+    <Resource Include="JPEG\honor_spade.jpg" />
+    <Resource Include="JPEG\JC.jpg" />
+    <Resource Include="JPEG\JD.jpg" />
+    <Resource Include="JPEG\JH.jpg" />
+    <Resource Include="JPEG\JS.jpg" />
+    <Resource Include="JPEG\KC.jpg" />
+    <Resource Include="JPEG\KD.jpg" />
+    <Resource Include="JPEG\KH.jpg" />
+    <Resource Include="JPEG\KS.jpg" />
+    <Resource Include="JPEG\purple_back.jpg" />
+    <Resource Include="JPEG\QC.jpg" />
+    <Resource Include="JPEG\QD.jpg" />
+    <Resource Include="JPEG\QH.jpg" />
+    <Resource Include="JPEG\QS.jpg" />
+    <Resource Include="JPEG\Red_back.jpg" />
+    <Resource Include="JPEG\table.jpg" />
+    <Resource Include="JPEG\Yellow_back.jpg" />
+  </ItemGroup>
+
+</Project>

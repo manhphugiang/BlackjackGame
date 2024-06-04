@@ -1,0 +1,30 @@
+﻿<Window x:Class="BlackJackStarter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BlackJackStarter"
+        mc:Ignorable="d"
+        Title="The world's coolest Blackjack" Height="800" Width="1000">
+    <Grid>
+
+        <Grid.Background>
+            <ImageBrush ImageSource="C:\Users\gmanh\SHERIDAN_COLLEGE\Semester 4\PROG 32356 - C#\Code\BlackjackStarter\BlackjackStarter\JPEG\table.jpg" Stretch="Fill"/>
+        </Grid.Background>
+
+        <WrapPanel Name="DealerPanel" Height="137" VerticalAlignment="Top" Margin="108,190,88,0" />
+
+
+        <WrapPanel VerticalAlignment="Top" HorizontalAlignment="Left" Margin="323,568,0,0">
+            <Button Content="Hit" Width="100" Height="50" Margin="10" Click="Hit_Click" />
+            <Button Content="Stand" Width="100" Height="50" Margin="10" Click="Stand_Click"/>
+            <Button Content="Play Again" Width="100" Height="50" Margin="10" Click="PlayAgain_Click"/>
+
+        </WrapPanel>
+        <WrapPanel Name="PlayerPanel" Height="147" VerticalAlignment="Top" Margin="110,354,91,0"/>
+
+
+
+
+    </Grid>
+</Window>
