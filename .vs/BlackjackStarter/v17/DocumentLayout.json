@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gmanh\\SHERIDAN_COLLEGE\\Semester 4\\PROG 32356 - C#\\Code\\BlackjackStarter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76F37D59-869B-4C13-B5D5-914593C4172F}|BlackjackStarter\\BlackjackStarter.csproj|c:\\users\\gmanh\\sheridan_college\\semester 4\\prog 32356 - c#\\code\\blackjackstarter\\blackjackstarter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{76F37D59-869B-4C13-B5D5-914593C4172F}|BlackjackStarter\\BlackjackStarter.csproj|solutionrelative:blackjackstarter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F37D59-869B-4C13-B5D5-914593C4172F}|BlackjackStarter\\BlackjackStarter.csproj|c:\\users\\gmanh\\sheridan_college\\semester 4\\prog 32356 - c#\\code\\blackjackstarter\\blackjackstarter\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F37D59-869B-4C13-B5D5-914593C4172F}|BlackjackStarter\\BlackjackStarter.csproj|solutionrelative:blackjackstarter\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F37D59-869B-4C13-B5D5-914593C4172F}|BlackjackStarter\\BlackjackStarter.csproj|c:\\users\\gmanh\\sheridan_college\\semester 4\\prog 32356 - c#\\code\\blackjackstarter\\blackjackstarter\\blackjack\\blackjackengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F37D59-869B-4C13-B5D5-914593C4172F}|BlackjackStarter\\BlackjackStarter.csproj|solutionrelative:blackjackstarter\\blackjack\\blackjackengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F37D59-869B-4C13-B5D5-914593C4172F}|BlackjackStarter\\BlackjackStarter.csproj|c:\\users\\gmanh\\sheridan_college\\semester 4\\prog 32356 - c#\\code\\blackjackstarter\\blackjackstarter\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F37D59-869B-4C13-B5D5-914593C4172F}|BlackjackStarter\\BlackjackStarter.csproj|solutionrelative:blackjackstarter\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gmanh\\AppData\\Local\\Temp\\.vsdbgsrc\\205fdefebe7c0a9d138d9d2e64439421fe0978b8366dd4cea7196ca147bdffe8\\MainWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F37D59-869B-4C13-B5D5-914593C4172F}|BlackjackStarter\\BlackjackStarter.csproj|c:\\users\\gmanh\\sheridan_college\\semester 4\\prog 32356 - c#\\code\\blackjackstarter\\blackjackstarter\\blackjack\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F37D59-869B-4C13-B5D5-914593C4172F}|BlackjackStarter\\BlackjackStarter.csproj|solutionrelative:blackjackstarter\\blackjack\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gmanh\\AppData\\Local\\Temp\\8702b26c-2689-458d-85f4-60721f8a8a7a_BlackjackStarter.zip.a7a\\BlackjackStarter\\BlackjackStarter\\Blackjack\\Card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gmanh\\SHERIDAN_COLLEGE\\Semester 4\\PROG 32356 - C#\\Code\\BlackjackStarter\\BlackjackStarter\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlackjackStarter\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\gmanh\\SHERIDAN_COLLEGE\\Semester 4\\PROG 32356 - C#\\Code\\BlackjackStarter\\BlackjackStarter\\Blackjack\\Card.cs",
+              "RelativeDocumentMoniker": "BlackjackStarter\\Blackjack\\Card.cs",
+              "ToolTip": "C:\\Users\\gmanh\\SHERIDAN_COLLEGE\\Semester 4\\PROG 32356 - C#\\Code\\BlackjackStarter\\BlackjackStarter\\Blackjack\\Card.cs",
+              "RelativeToolTip": "BlackjackStarter\\Blackjack\\Card.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAnwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:42:23.059Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\gmanh\\SHERIDAN_COLLEGE\\Semester 4\\PROG 32356 - C#\\Code\\BlackjackStarter\\BlackjackStarter\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BlackjackStarter\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\gmanh\\SHERIDAN_COLLEGE\\Semester 4\\PROG 32356 - C#\\Code\\BlackjackStarter\\BlackjackStarter\\MainWindow.xaml",
+              "RelativeToolTip": "BlackjackStarter\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T13:59:15.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlackjackEngine.cs",
+              "DocumentMoniker": "C:\\Users\\gmanh\\SHERIDAN_COLLEGE\\Semester 4\\PROG 32356 - C#\\Code\\BlackjackStarter\\BlackjackStarter\\Blackjack\\BlackjackEngine.cs",
+              "RelativeDocumentMoniker": "BlackjackStarter\\Blackjack\\BlackjackEngine.cs",
+              "ToolTip": "C:\\Users\\gmanh\\SHERIDAN_COLLEGE\\Semester 4\\PROG 32356 - C#\\Code\\BlackjackStarter\\BlackjackStarter\\Blackjack\\BlackjackEngine.cs",
+              "RelativeToolTip": "BlackjackStarter\\Blackjack\\BlackjackEngine.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAgwDgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:42:50.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\gmanh\\SHERIDAN_COLLEGE\\Semester 4\\PROG 32356 - C#\\Code\\BlackjackStarter\\BlackjackStarter\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "BlackjackStarter\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\gmanh\\SHERIDAN_COLLEGE\\Semester 4\\PROG 32356 - C#\\Code\\BlackjackStarter\\BlackjackStarter\\AssemblyInfo.cs",
+              "RelativeToolTip": "BlackjackStarter\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:43:47.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.WinFX.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ViewState": "AQIAAKYCAAAAAAAAAAAqwNECAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-16T13:28:28.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "C:\\Users\\gmanh\\AppData\\Local\\Temp\\.vsdbgsrc\\205fdefebe7c0a9d138d9d2e64439421fe0978b8366dd4cea7196ca147bdffe8\\MainWindow.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\205fdefebe7c0a9d138d9d2e64439421fe0978b8366dd4cea7196ca147bdffe8\\MainWindow.cs",
+              "ToolTip": "C:\\Users\\gmanh\\AppData\\Local\\Temp\\.vsdbgsrc\\205fdefebe7c0a9d138d9d2e64439421fe0978b8366dd4cea7196ca147bdffe8\\MainWindow.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\205fdefebe7c0a9d138d9d2e64439421fe0978b8366dd4cea7196ca147bdffe8\\MainWindow.cs [Read Only]",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:24:15.882Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 178,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gmanh\\SHERIDAN_COLLEGE\\Semester 4\\PROG 32356 - C#\\Code\\BlackjackStarter\\BlackjackStarter\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BlackjackStarter\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\gmanh\\SHERIDAN_COLLEGE\\Semester 4\\PROG 32356 - C#\\Code\\BlackjackStarter\\BlackjackStarter\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BlackjackStarter\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:28:00.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\gmanh\\SHERIDAN_COLLEGE\\Semester 4\\PROG 32356 - C#\\Code\\BlackjackStarter\\BlackjackStarter\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "RelativeDocumentMoniker": "BlackjackStarter\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "ToolTip": "C:\\Users\\gmanh\\SHERIDAN_COLLEGE\\Semester 4\\PROG 32356 - C#\\Code\\BlackjackStarter\\BlackjackStarter\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "RelativeToolTip": "BlackjackStarter\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAC4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:45:46.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\gmanh\\AppData\\Local\\Temp\\8702b26c-2689-458d-85f4-60721f8a8a7a_BlackjackStarter.zip.a7a\\BlackjackStarter\\BlackjackStarter\\Blackjack\\Card.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\8702b26c-2689-458d-85f4-60721f8a8a7a_BlackjackStarter.zip.a7a\\BlackjackStarter\\BlackjackStarter\\Blackjack\\Card.cs",
+              "ToolTip": "C:\\Users\\gmanh\\AppData\\Local\\Temp\\8702b26c-2689-458d-85f4-60721f8a8a7a_BlackjackStarter.zip.a7a\\BlackjackStarter\\BlackjackStarter\\Blackjack\\Card.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\8702b26c-2689-458d-85f4-60721f8a8a7a_BlackjackStarter.zip.a7a\\BlackjackStarter\\BlackjackStarter\\Blackjack\\Card.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:02:54.265Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
