@@ -15,6 +15,8 @@ Watch Gameplay:
 
 https://www.youtube.com/watch?v=yZeHrOUCeHM
 
+
+
 To play the game, follow these steps:
 
 Clone the Repository:
@@ -22,6 +24,7 @@ Clone the Repository:
 
 
 git clone https://github.com/manhphugiang/blackjack-game.git
+
 cd blackjack-game
 
 
