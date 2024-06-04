@@ -15,10 +15,7 @@ Watch Gameplay:
 
 
 
-<video width="640" height="360" controls>
-  <source src="https://www.youtube.com/watch?v=yZeHrOUCeHM" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Video Title](https://github.com/manhphugiang/BlackjackGame/raw/27e69c98099e0190aa7c78af9d301b6668b31075/BlackjackStarter/Assets/blackjack-gameplay%20-%20Made%20with%20Clipchamp.mp4)
 
 
 To play the game, follow these steps:
