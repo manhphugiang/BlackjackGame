@@ -13,8 +13,12 @@ Installation
 
 Watch Gameplay: 
 
-https://www.youtube.com/watch?v=yZeHrOUCeHM
 
+
+<video width="640" height="360" controls>
+  <source src="https://www.youtube.com/watch?v=yZeHrOUCeHM" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 To play the game, follow these steps:
