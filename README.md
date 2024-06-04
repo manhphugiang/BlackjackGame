@@ -11,6 +11,9 @@ Customizable Options: Adjust settings such as bet amount and number of decks.
 Installation
 
 
+Watch Gameplay: 
+
+https://www.youtube.com/watch?v=yZeHrOUCeHM
 
 To play the game, follow these steps:
 
